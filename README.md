@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 This section contains documentation
 This is a new line
+
+
+Added a new line just to checkout a new feature
