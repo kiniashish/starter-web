@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ##Documentation
 
 This section contains documentation
+This is a new line
