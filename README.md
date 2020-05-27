@@ -13,3 +13,7 @@ This is a new line
 
 
 Added a new line just to checkout a new feature
+
+
+
+this is master new line
